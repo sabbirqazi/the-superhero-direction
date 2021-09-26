@@ -8,9 +8,9 @@
 
 
 
->> You Can Click Add button to build your movie
->> Added Artist Will Show On the Added Artist section
->> You can see total artist and their names as well
+*You Can Click Add button to build your movie
+*Added Artist Will Show On the Added Artist section
+*You can see total artist and their names as well
 
 
 
