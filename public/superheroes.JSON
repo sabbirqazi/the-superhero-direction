@@ -1,0 +1,110 @@
+[
+    {
+      "key": "12345aqwer",
+      "name": "Pankaj Tripathi",
+      "role": "Actor",
+      "img": "https://cdn.statically.io/img/www.theweirdpenguin.com/f=auto/wp-content/uploads/2021/04/Pankaj-Tripathi-Age-Height-Wife-Family-Biography-More-StarsUnfolded-486x470.jpg",
+      "age": 56,
+      "sallary": 200000,
+      "country": "India"
+    },
+    {
+      "key": "12345aqwes",
+      "name": "Deepika Padukone",
+      "role": "Actress",
+      "img": "https://filmfare.wwmindia.com/content/2020/apr/deepikapadukonenext11586245449.jpg",
+      "age": 36,
+      "sallary": 2560000,
+      "country": "India"
+    },
+    {
+      "key": "12345aqwet",
+      "name": "Newazuddin Siddiqui",
+      "role": "Actor",
+      "img": "https://www.bollywoodhungama.com/wp-content/uploads/2020/11/WhatsApp-Image-2020-11-21-at-9.12.55-AM.jpeg",
+      "age": 52,
+      "sallary": 200000,
+      "country": "India"
+    },
+    {
+      "key": "12345aqweu",
+      "name": "Ali Fazal",
+      "role": "Actor",
+      "img": "https://static.toiimg.com/photo/msid-79357279/79357279.jpg?706912",
+      "age": 26,
+      "sallary": 300000,
+      "country": "India"
+    },
+    {
+      "key": "12345aqwev",
+      "name": "Shweta Tripathi",
+      "role": "Actress",
+      "img": "https://www.shethepeople.tv/wp-content/uploads/2021/03/Photo-shared-by-Shweta-Tripathi-Sharma-1.jpg",
+      "age": 27,
+      "sallary": 5000000,
+      "country": "India"
+    },
+    {
+      "key": "12345aqwew",
+      "name": "Divyendu Sharma",
+      "role": "Actor",
+      "img": "https://img.mensxp.com/media/content/2020/Nov/Best-Roles-Of-Divyendu-Sharma-Apart-From-Mirzapur-21200_5fc36df3cf5d6_1200x900.jpeg",
+      "age": 25,
+      "sallary": 800000,
+      "country": "India"
+    },
+    {
+      "key": "12345aqwex",
+      "name": "Kiara Advani",
+      "role": "Actress",
+      "img": "https://www.bollywoodhungama.com/wp-content/uploads/2021/06/Kiara-Advani-opens-up-about-the-time-a-fan-climbed-27-floors-to-meet-her-1.jpg",
+      "age": 26,
+      "sallary": 5200000,
+      "country": "India"
+    },
+    {
+      "key": "12345aqwey",
+      "name": "Zoya Ahsan",
+      "role": "Actress",
+      "img": "https://smallbiography.com/wp-content/uploads/2020/12/Joya-Ahsan-22.jpg",
+      "age": 22,
+      "sallary": 2220000,
+      "country": "Bangladesh"
+    },
+    {
+      "key": "12345aqwez",
+      "name": "Manoj Bajpai",
+      "role": "Actor",
+      "img": "https://img.mensxp.com/media/content/2019/Oct/iconic-movies-that-have-made-manoj-bajpayee-one-of-the-best-performers-in-the-film-industry-600x900-1570626531_600x900.jpg",
+      "age": 50,
+      "sallary": 7420000,
+      "country": "India"
+    },
+    {
+      "key": "12345aqwei",
+      "name": "Anurag Kashyap",
+      "role": "Director",
+      "img": "https://www.forbesindia.com/media/images/2019/Aug/img_119789_anurag_kashyap.jpg",
+      "age": 41,
+      "sallary": 1000000,
+      "country": "India"
+    },
+    {
+      "key": "12345aqwej",
+      "name": "Jitendra Kumar",
+      "role": "Actor",
+      "img": "https://cms.qz.com/wp-content/uploads/2019/12/Jeetu_Kota-Factory.png?quality=75&strip=all&w=450&h=305&crop=1",
+      "age": 25,
+      "sallary": 300000,
+      "country": "India"
+    },
+    {
+      "key": "12345aqwerk",
+      "name": "Chanchal Chowdhury",
+      "role": "Actor",
+      "img": "https://www.ittefaq.com.bd/assets/news_photos/2021/07/05/image-257391-1625494436.jpg",
+      "age": 40,
+      "sallary": 200000,
+      "country": "Bangladesh"
+    }
+  ]

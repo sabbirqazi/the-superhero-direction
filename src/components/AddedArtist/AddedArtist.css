@@ -1,0 +1,11 @@
+.AddedArtist{
+    background-color: #F7F6F2;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 2px 2px gray;
+    color: #007eb9;
+}
+.AddedArtist ol{
+    font-size: 20px;
+    font-weight: 400;
+}
