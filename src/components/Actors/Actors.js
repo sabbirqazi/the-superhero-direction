@@ -17,7 +17,7 @@ const Actors = (props) => {
           <div className="card-lower">
             <div>
               <h4>Sallary</h4>
-              <h5>{sallary}</h5>
+              <h5>$ {sallary}</h5>
             </div>
             
             <div>
